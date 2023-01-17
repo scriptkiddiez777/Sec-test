@@ -1,2 +1,2 @@
 # Sec-test
-repo for security scripts that I made
+repo for my custom security scripts
