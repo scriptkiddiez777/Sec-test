@@ -1,3 +1,5 @@
+## Practical Cyber Security Resources
+
 ### Contents
 
 - Pentest General Resources
@@ -22,6 +24,10 @@
 - Blockchain Security
 - Threat Modelling
 - General Resources
+
+### Credits
+
+thank you brcyrr for the amazing lists!
 
 Happy hunting❗️👻
 
@@ -216,7 +222,7 @@ https://www.virtuesecurity.com/api-penetration-testing/
 
 https://university.apisec.ai/
 
-Active Directory 📝
+## Active Directory 📝
 https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
 
 https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet
@@ -241,7 +247,7 @@ https://github.com/0xJs/RedTeaming_CheatSheet
 
 https://github.com/FabioBaroni/awesome-exploit-development
 
-AppSec & Code Review 📝
+## AppSec & Code Review 📝
 
 https://wehackpurple.com/blogs/page/2/
 
